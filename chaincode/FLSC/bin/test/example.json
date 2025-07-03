@@ -1,0 +1,36 @@
+{
+  "@context": "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+  "id": "urn:ngsi-ld:IoTGateway:SMARTHOUSE-MONITORING-01",
+  "type": "IoTGateway",
+  "CO2": {
+    "value": "71.3",
+    "type": "Property"
+  },
+  "Consumption_Energy": {
+    "value": "2300.3",
+    "type": "Property"
+  },
+  "Humidity": {
+    "value": "23.1",
+    "type": "Property"
+  },
+  "Photovoltaic_Energy": {
+    "value": "1577.3",
+    "type": "Property"
+  },
+  "Temperature": {
+    "value": "40.3",
+    "type": "Property"
+  },
+  "Ventilator": {
+    "value": "On",
+    "type": "Property"
+  },
+  "timestamp": {
+    "value": "2022-01-28 09:10:03",
+    "type": "Property"
+  }
+}
+
+
+
